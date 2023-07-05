@@ -1,4 +1,4 @@
-<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=reader"/>
+<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=reader"/>
 <div style="text-align:center;">
     <h1>Hi, I'm Poliana but you can call me Poli!😺</h1>
 </div>
