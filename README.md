@@ -2,7 +2,7 @@
 <div style="text-align:center;">
     <h1>Hi, I'm Poliana but you can call me Poli!😺</h1>
 </div>
-<p>  🔸 📱 mobile development student.</p> 
+<p>  🔸 📱 Mobile Developer</p> 
 <p>  🔸 🎓 Studying technology in mobile development.</p> 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polianapadilha/)
