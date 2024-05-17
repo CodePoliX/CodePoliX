@@ -8,6 +8,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polianapadilha/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_polizinhaa_/)
 
-  ![CodePoliX GitHub Status](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![CodePoliX GitHub Status](https://github-readme-stats.vercel.app/api?username=CodePoliX&show_icons=true&theme=radical)
 
   [![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,java,dart,sqlite,mysql,figma,godot,androidstudio,spring)](https://skillicons.dev)
