@@ -3,7 +3,7 @@
     <h1>Hi, I'm Poliana but you can call me Poli!😺</h1>
 </div>
 <p>  🔸 📱 Mobile Developer</p> 
-<p>  🔸 🎓 Software Engineering Student</p> 
+<p>  🔸 🎓 Electrical Engineering Student</p> 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polianapadilha/)
 
