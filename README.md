@@ -7,6 +7,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polianapadilha/)
 
-  ![polianapetry GitHub Status](https://github-readme-stats.vercel.app/api?username=polianapadilha&show_icons=true&theme=radical)
+  ![polianapetry GitHub Status](https://github-readme-stats.vercel.app/api?username=polianapetry&show_icons=true&theme=radical)
 
   [![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,java,dart,sqlite,mysql,figma,godot,androidstudio,spring)](https://skillicons.dev)
